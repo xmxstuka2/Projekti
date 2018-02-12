@@ -1,0 +1,8 @@
+11.2.2018 Viikkokokous:
+
+Käytiin läpi Whatsappin kautta opettajien antamaa palautetta esityksestä tunnilla sekä miten projektin tulisi edetä sekä pohdittiin suunnitelman tarvittavia muutoksia.
+
+
+9.2. Samuel Lappalainen?3h: openstackiin tutustuminen ja perusteellisemman suunnitelman lopullinen versio
+
+Suvi Jämsen:  3h: Docker imagejen ja sivujen luonnin  ja toiminnan opettelua
