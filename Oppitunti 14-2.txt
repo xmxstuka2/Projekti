@@ -1,0 +1,9 @@
+Viikko 7, 14.2.2018
+
+Samuel tuli tunnille klo 12-15
+
+Tunnilla käytiin läpi projektiin liittyen opettajan kanssa ja projektistamme tuli ilmi puutteita mm. projektisuunnitelman ja kirjanpidon suhteen.
+
+Seuraavat muutokset tarpeen: Lisää dokumentaatiota töistä ja kirjanpito ajantasalle, projektisuunnitelman puutteet pitää korjata (Eli mikä on yksityinen pilvi meillä. Tässä tapauksessa palvelu, jossa serverissä ajetaan kontteja ja niin, että sovelluskehittäjä voi ilman root-tunnuksia ajaa ohjelmia)
+
+Muuta huomioitavaa: Muutosten deadline perjantai 16.2.2016
