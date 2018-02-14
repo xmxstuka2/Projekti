@@ -1,0 +1,11 @@
+Lähteet: https://www.docker.com/what-docker
+https://pantsesnyi.wordpress.com/2017/06/20/docker-konteinerit/
+
+Dockeria voi verrata rahtiliikenteeseen, missä kuljetuskontit ovat helposti käsiteltäviä ja pinottavia eikä logistiikkaketjusta tarvitse huolehtia niin paljoa.
+
+Docker on siis samanlainen ratkaisu, jossa Docker-sovelluskontti vastaa rahtikonttia ja sovelluksen ja alustan välinen suhde on mahdollisimman riippumaton ja ennustettava. Docker paketoi sovelluksen sekä sen tarvitseman sovellusalustan ja ajaa niitä kevyissä konteissa.
+
+Docker ei käytä vierasta käyttöjärjestelmää vaan host-koneen omaa käyttöjärjestelmää minkä takia se on nopeampi kuin virtuaalikoneet. 
+
+
+
