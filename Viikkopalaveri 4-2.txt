@@ -1,4 +1,4 @@
-Viikkopalaveri 5. helmikuuta 2018 klo 14:00-16:00 + Projektin edistämistä n. klo asti 21:00 
+Viikkopalaveri 4. helmikuuta 2018 klo 14:00-16:00 + Projektin edistämistä n. klo asti 21:00 
 Lopullinen päätös projektin aiheesta, ptojektipäällikön kanssa valittiin yksimielisesti kyseinen docker-projekti.? 
  
 
