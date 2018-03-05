@@ -1,0 +1,13 @@
+Viikko 9
+
+3.3 ja 4.3.2018
+
+Samuel jatkoi serverin parissa työskentelyä, valitettavasti kotiverkko ei ole aivan ideaalinen tähän ja työskentely ei ollut niin tehokasta kuin olisi toivonut. Ideana oli testata miten saisi etäyhteyden virtuaaliserveristä toiseen koneeseen, mutta tämä ei ollutkaan niin helppoa kuin aluksi näytti.
+
+3.3: Samuel 3h 33min
+4.3: Samuel 3h 10min
+
+
+
+https://support.suso.com/supki/SSH_Tutorial_for_Linux
+https://www.kevinkuszyk.com/2016/11/28/connect-your-docker-client-to-a-remote-docker-host/
