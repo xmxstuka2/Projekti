@@ -1,0 +1,12 @@
+7.3.2018 oppitunti
+
+Samuel ja Suvi olivat koulussa 12-15 Servulassa tekemässä koneen asennusta eli asentamassa ubuntu-serveriä ja työstämässä Dockeria
+
+Ubuntu-serverin asennuksessa ilmeni ongelmia johtuen siitä, että Ubuntu-server halusi asentaa tiedostot CD-romin kautta vaikka koneessa oli USB, jossa bootattava ISO-tiedosto. Asennus jäi siis kesken ja sitä jatketaan torstaina tai perjantaina
+
+
+
+
+
+
+
