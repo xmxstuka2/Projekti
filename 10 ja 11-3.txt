@@ -1,0 +1,6 @@
+10 ja 11.3.2018
+
+Samuel jatkoi kotona testiympäristön luontia, jotta asennus oikeaan sujuu kätevästi. Työtä yhteensä 6h
+
+Suvi jatkoi Dockern parissa (Amazon kirjojen lukua ja työtä) 6h
+
