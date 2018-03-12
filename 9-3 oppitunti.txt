@@ -1,0 +1,10 @@
+9.3.2018 Oppitunti.
+
+Samuel koulussa 9-16
+Suvi koulussa 9-15
+
+Jatkoimme siitä mihin keskiviikkona jäätiin ja lopputuloksena oli toimiva serveri, joka päivitetty ja valmiina seuravaaan vaiheeseen, joka on SSH-yhteyden toimivaksi saattaminen ja täten etäyhteyden, jolla konetta voi hallinnoida esim. Puttyn kautta. 
+Serverin asentuessa tunnilla myös tehtiin eteenpäin Docker-osiota.
+
+
+
