@@ -1,0 +1,3 @@
+Suvi ja Samuel luokassa paikalla klo 9-12
+
+Samuel tutki Root-asetusten tekoa Dockerissa ja Suci työsti Dockeria
