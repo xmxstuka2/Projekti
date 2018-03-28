@@ -1,0 +1,46 @@
+28.3 Kokouspäiväkirja
+
+Suvi ja Samuel paikalla 12-
+
+-Dokumentaatio! (Taas)
+-Projekti aikataulu jäljessä (edelleen, tee suunnitelma asian korjaamiseksi)
+-Porttioikeudet katsottava
+-Docker ryhmäoikeudet
+-Terminologia ylös!
+-MySQL vian selvitys
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
