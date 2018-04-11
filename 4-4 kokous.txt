@@ -1,5 +1,6 @@
-Samuel ja Suvi olivat koulussa 12-
+Samuel ja Suvi olivat koulussa 12-15
 
 Kokouspöytäkirja:
 
--
+-Keskusteltu projektin etenimsestä
+-Staattinen sivu ja porttien käyttö
