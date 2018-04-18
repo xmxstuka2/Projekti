@@ -1,0 +1,5 @@
+Suvi ja Samuel paikalla labraluokassa 7-15
+
+-Nginx luontia
+-Puppet moduulin parissa testausta
+-Dokumentaation tekoa Wordpressiin.

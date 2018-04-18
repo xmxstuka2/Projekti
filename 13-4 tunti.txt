@@ -1,0 +1,8 @@
+Samuel paikalla labraluokassa 9-15
+
+-Nginx ongelman tutkimista (portti käytössä, missä vika?)
+-Pilven tiedostojen jaon paras mahdollinen tutkiminen: mahdollisia ratkaisuja:
+
+https://docs.docker.com/engine/reference/commandline/cp/
+
+tai SSH käyttö tiedostojen siirtoon palvelimelle. Mahdollisesti tarve tiedostojenjako palvelimelle koneeseen. Asiaa pitää testata.
