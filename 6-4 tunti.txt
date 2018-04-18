@@ -1,4 +1,4 @@
-Suvi ja Samuel paikalla labraluokassa 7-15
+Suvi ja Samuel paikalla labraluokassa 9-15
 
 -Nginx luontia
 -Puppet moduulin parissa testausta
