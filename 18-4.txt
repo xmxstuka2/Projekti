@@ -1,0 +1,17 @@
+Suvi ja Samuel koulussa 12-15
+
+-Käytiin läpi porttiongelmaa -> ei ratkaisua ->Luodaan virtuaalikone, jossa asiaa yritetään pohtia
+-Lisäksi kokous Teron kanssa ->kokouspäiväkirja
+
+
+
+Suvi
+
+16:00-01.00 9h
+-Nginx ja Apachen staattisen sivun tekoa->Dokumentaatio Wordpressissä ->Ongelma edelleen ratkaisematon
+
+
+Yhteensä:
+
+Suvi 12h
+Samuel 3h
