@@ -5,5 +5,5 @@
 -Merkittävästi jäljessä tunneissa -> Laske tunnit
 -Ensi viikolle lista minä päivänä tehdään (kellon ajat ja paikat)
 -dokumentaatio. Kirjaa ylös virheet ja lähdeviitattu tiiviste jos luet jotain
--
+
 

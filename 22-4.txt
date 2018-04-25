@@ -1,0 +1,9 @@
+Suvi:
+
+12-19 dockerin käyttöä, sisältäen onnistuneen nginx jutun työstämistä ja sen ongelman selvittämistä. Lopputuloksena Nginx toimii ja tuottaa staattisen sivun.
+
+Samuel:
+
+12-15
+-Kirjanpidon organisointia 
+-Virtuaaliympäristön työstöä SSH-tiedostojen testausta varten.

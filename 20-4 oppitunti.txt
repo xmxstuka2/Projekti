@@ -1,0 +1,28 @@
+20.4.2018 Samuel koulussa 9-15
+
+-Nginx ongelman tutkimista eri lähteistä ja ratkaisujen kokeilua käytännössä:
+https://serverfault.com/questions/759175/nginx-hangs-using-service-nginx-start
+https://github.com/yaoweibin/nginx_tcp_proxy_module/issues/60
+https://stackoverflow.com/questions/31311365/nginx-proxy-hangs-in-a-while-when-idle
+https://www.digitalocean.com/community/questions/nginx-multiple-download-freeze-my-server
+
+-SSh tiedostoojen siirtoon tutustumista:
+https://help.ubuntu.com/community/SSH/TransferFiles
+https://stackoverflow.com/questions/343711/transferring-files-over-ssh
+https://www.digitalocean.com/community/tutorials/how-to-use-sftp-to-securely-transfer-files-with-a-remote-server
+
+
+19-02
+-Virtuaaliympäristön luonti virtualboxilla. Johtuen Virtualboxin uudesta päivityksestä, Windows 8.1 kaatuu BSOD tilassa ja vanha ympäristö on täten käyttökelvoton. Tästä syystä ympäristö piti luoda uudelleen (Ubuntu-server kone ja Ubuntu-pöytäkone) Vanhemman version käyttö oli täten tarpeen. 
+
+
+21.4.2018 15-18
+
+Puppet moduulin työstöä
+
+
+
+
+
+
+
