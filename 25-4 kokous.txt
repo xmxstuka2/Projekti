@@ -1,0 +1,7 @@
+Kokous 25.4.2018 
+
+-Docker kuvien palvelut näkyvät
+-LAMP serverille, livetikun kautta
+-Python Jango (jos aikaa)
+-ERP-ohjelma Dockerin kautta
+-Aikataulu
