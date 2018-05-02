@@ -8,3 +8,4 @@ Samuel 10-13, 15-21
 
 -Ooden teko Dockerissa
 -Demon testaus
+-Muista tehdä dokumentaatio Wordpressiin!

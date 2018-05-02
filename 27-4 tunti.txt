@@ -3,7 +3,7 @@
 Samuel paikalla koulussa klo 9-13:30
 
 -Internet vian korjaus -> Kirjoitusvirhe asetuksissa kun kone siirrettiin staattiseen IP:hen DHCP:n sijasta, jotta projektilla aina sama IP. 
--Oodeen tutustumista
+-Oodoon tutustumista
 
 
 

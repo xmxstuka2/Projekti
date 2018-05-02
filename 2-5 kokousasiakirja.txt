@@ -1,0 +1,5 @@
+2.5. 2018 kokousasiakirja
+
+-Oodon alphaversio toimii -Beta ja siirto koneelle
+-Lamp toimii ->Wordpress
+-Loppuraportti ja esitys
