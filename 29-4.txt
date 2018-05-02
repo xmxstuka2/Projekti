@@ -1,0 +1,10 @@
+29.4.2018
+
+Suvi 12-18, 21-23
+-Demon valmistelua esitystä varten
+-Lampin teko Dockerissa ja testaus
+
+Samuel 10-13, 15-21
+
+-Ooden teko Dockerissa
+-Demon testaus

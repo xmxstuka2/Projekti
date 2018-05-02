@@ -1,0 +1,13 @@
+28.4.2018
+
+Suvi 14-18
+
+-Esityksen suunnittelua ja loppuraportin materiaalin kasaamista sekä valmistelua
+-Lamp
+
+
+Samuel 12-15, 18-02
+
+-Oodon tutustumista https://www.odoo.com/ https://github.com/ronde21/erp/
+-Skriptin testaus
+-Oodon rakennus

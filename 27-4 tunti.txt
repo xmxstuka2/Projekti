@@ -1,0 +1,12 @@
+27.4.2018
+
+Samuel paikalla koulussa klo 9-13:30
+
+-Internet vian korjaus -> Kirjoitusvirhe asetuksissa kun kone siirrettiin staattiseen IP:hen DHCP:n sijasta, jotta projektilla aina sama IP. 
+-Oodeen tutustumista
+
+
+
+Suvi 18-19
+
+-Lampin testiasennus kotikoneella
