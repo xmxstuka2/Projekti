@@ -1,0 +1,16 @@
+13.5 ja 14.5
+
+Suvi ja Samuel
+13.5.2018 klo 12-18 yht 6h
+-Docker perusteiden täydentäminen ja demojen esittelyt powerpointiin, lisäksi powerpoint esitys missä tietoa dockerista (samat wordpressiin)
+
+-Loppuraportin täydennystä
+ ja tekoa
+
+14.5 Suvi ja Samuel klo 14-19 yht 5h
+-Loppuraportin lisätäydennys
+
+-Docker tutoriaalin viiemistely (wordpressiin, demojen viimeistely ja powerpointin viimeistely 
+
+-Teknisen raportin täyttäminen ja viimeistely
+
