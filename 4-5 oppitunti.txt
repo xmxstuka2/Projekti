@@ -3,3 +3,7 @@
 -Odoon kanssa työskentelyä
 -Wordpressin hienosäätö (kirjoitusvirheiden korjausta ja oikolukua)
 -Linux palvelimen päivitys ja uusien käyttäjien luontia puttylla harjoittelua varten tiedoston siirrossa
+
+Suvi 18-12
+
+Tutoriaalin suunnittelua
