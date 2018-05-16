@@ -1,0 +1,27 @@
+https://palaveriapinat.wordpress.com/ osoitteessa projektin blogi
+
+Alla bloginn postaukset:
+
+https://palaveriapinat.wordpress.com/2018/05/15/docker-ja-puppet-uusi-versio/
+https://palaveriapinat.wordpress.com/2018/03/28/66/
+https://palaveriapinat.wordpress.com/2018/05/11/dockerin-perusteet-tutorial-kesken/
+https://palaveriapinat.wordpress.com/2018/05/02/docker-ja-odoo/
+https://palaveriapinat.wordpress.com/2018/05/02/dockerfile/
+https://palaveriapinat.wordpress.com/2018/04/25/lamp-kesken/
+https://palaveriapinat.wordpress.com/2018/04/22/static-site-via-nginx-tryout-2/
+https://palaveriapinat.wordpress.com/2018/04/18/staattinen-sivu-2-nginx-keskenerainen/
+https://palaveriapinat.wordpress.com/2018/04/18/staattinen-web-sivu-2-apache-keskenerainen-ongelmien-vuoksi/
+https://palaveriapinat.wordpress.com/2018/04/04/docker-tutoriaali-1-perustoiminnot/
+https://palaveriapinat.wordpress.com/2018/03/16/ssh-yhteys/
+https://palaveriapinat.wordpress.com/2018/03/12/serverin-asennus/
+https://palaveriapinat.wordpress.com/2018/02/15/docker-komentoja-busybox/
+https://palaveriapinat.wordpress.com/2018/02/14/docker-harjoitus-staattinen-sivu/
+
+https://palaveriapinat.wordpress.com/2018/01/29/the-journey-begins/
+
+
+
+
+
+
+
